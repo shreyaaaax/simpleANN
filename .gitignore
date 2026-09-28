@@ -1,0 +1,6 @@
+.venv/
+venv/
+env/
+fmnist_small.csv
+__pycache__/
+*.pyc
